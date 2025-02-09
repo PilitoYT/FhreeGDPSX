@@ -29,3 +29,5 @@ StartupWMClass=fhreegdpsx.exe
 y guardalo como Fhree GDPS X.desktop
 
 y no hay iconos porque no hay iconos de esos en el path.
+![Captura desde 2025-02-08 19-14-55](https://github.com/user-attachments/assets/ef8c3805-6581-41d9-81db-8052e13fe68c)
+![Captura desde 2025-02-08 19-14-11](https://github.com/user-attachments/assets/23a1d881-b409-4a10-b095-1f894523c025)
