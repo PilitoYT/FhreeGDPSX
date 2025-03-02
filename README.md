@@ -6,7 +6,7 @@
 # ¿¿¿Cómo instalar Fhree GDPS en iOS, Android, para Windows y para LINUX???
 
 
-Para iOS: ve este tutorial en Youtube que NI SE EL LINK XDDD y descarga el .ipa desde Releases: https://www.youtube.com/watch?v=tdRJyBwlTSc&ab_channel=DavidIOS
+Para iOS: ve este tutorial en Youtube que NI SE COMO SE INSTALA ESIGN EN iOS DE MEMORIA XDDD y descarga el .ipa desde Releases: https://www.youtube.com/watch?v=tdRJyBwlTSc&ab_channel=DavidIOS
 
 
 Para Android: Una vez dentro del repositorio, dale click a Releases y click a Fhree-GDPS-X.apk y arranca ese apk y dale a Instalar y boom ya lo tendras.
